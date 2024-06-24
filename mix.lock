@@ -1,0 +1,4 @@
+%{
+  "msgpax": {:hex, :msgpax, "2.4.0", "4647575c87cb0c43b93266438242c21f71f196cafa268f45f91498541148c15d", [:mix], [{:plug, "~> 1.0", [hex: :plug, repo: "hexpm", optional: true]}], "hexpm", "ca933891b0e7075701a17507c61642bf6e0407bb244040d5d0a58597a06369d2"},
+  "tethys": {:hex, :tethys, "0.1.0", "9e928fb7cbd41836fbdc5cc23d2531170014b8282614107b7b01cbd2151bb7b2", [:mix], [], "hexpm", "f96f3307e1462900b69d417720e228d1cc1bade9cd2fed3c2378a8a1d4b021c3"},
+}
