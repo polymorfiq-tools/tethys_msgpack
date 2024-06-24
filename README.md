@@ -1,4 +1,8 @@
 # TethysMsgpack
+[![Hex.pm](https://img.shields.io/hexpm/v/tethys_msgpack.svg)]()
+[![Hex.pm](https://img.shields.io/hexpm/dt/tethys_msgpack.svg)]()
+[![Hex.pm](https://img.shields.io/hexpm/dw/tethys_msgpack.svg)]()
+[![Hex.pm](https://img.shields.io/hexpm/dd/tethys_msgpack.svg)]()
 
 Adds MessagePack functionality to [Tethys](https://hex.pm/packages/tethys)
 
